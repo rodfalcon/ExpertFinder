@@ -1,0 +1,9 @@
+/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Domain/bin/Debug/netstandard2.0/Domain.deps.json
+/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Domain/bin/Debug/netstandard2.0/Domain.dll
+/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Domain/bin/Debug/netstandard2.0/Domain.pdb
+/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Domain/obj/Debug/netstandard2.0/Domain.csprojAssemblyReference.cache
+/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Domain/obj/Debug/netstandard2.0/Domain.AssemblyInfoInputs.cache
+/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Domain/obj/Debug/netstandard2.0/Domain.AssemblyInfo.cs
+/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Domain/obj/Debug/netstandard2.0/Domain.csproj.CoreCompileInputs.cache
+/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Domain/obj/Debug/netstandard2.0/Domain.dll
+/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Domain/obj/Debug/netstandard2.0/Domain.pdb

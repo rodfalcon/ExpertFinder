@@ -1,0 +1,12 @@
+/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Persistance/bin/Debug/netstandard2.0/Persistance.deps.json
+/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Persistance/bin/Debug/netstandard2.0/Persistance.dll
+/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Persistance/bin/Debug/netstandard2.0/Persistance.pdb
+/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Persistance/bin/Debug/netstandard2.0/Domain.dll
+/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Persistance/bin/Debug/netstandard2.0/Domain.pdb
+/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Persistance/obj/Debug/netstandard2.0/Persistance.csprojAssemblyReference.cache
+/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Persistance/obj/Debug/netstandard2.0/Persistance.AssemblyInfoInputs.cache
+/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Persistance/obj/Debug/netstandard2.0/Persistance.AssemblyInfo.cs
+/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Persistance/obj/Debug/netstandard2.0/Persistance.csproj.CoreCompileInputs.cache
+/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Persistance/obj/Debug/netstandard2.0/Persistance.csproj.CopyComplete
+/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Persistance/obj/Debug/netstandard2.0/Persistance.dll
+/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Persistance/obj/Debug/netstandard2.0/Persistance.pdb

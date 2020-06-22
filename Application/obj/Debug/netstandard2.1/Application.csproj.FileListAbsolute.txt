@@ -1,0 +1,14 @@
+/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Application/bin/Debug/netstandard2.1/Application.deps.json
+/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Application/bin/Debug/netstandard2.1/Application.dll
+/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Application/bin/Debug/netstandard2.1/Application.pdb
+/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Application/bin/Debug/netstandard2.1/Domain.dll
+/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Application/bin/Debug/netstandard2.1/Persistance.dll
+/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Application/bin/Debug/netstandard2.1/Domain.pdb
+/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Application/bin/Debug/netstandard2.1/Persistance.pdb
+/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Application/obj/Debug/netstandard2.1/Application.csprojAssemblyReference.cache
+/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Application/obj/Debug/netstandard2.1/Application.AssemblyInfoInputs.cache
+/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Application/obj/Debug/netstandard2.1/Application.AssemblyInfo.cs
+/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Application/obj/Debug/netstandard2.1/Application.csproj.CoreCompileInputs.cache
+/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Application/obj/Debug/netstandard2.1/Application.csproj.CopyComplete
+/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Application/obj/Debug/netstandard2.1/Application.dll
+/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Application/obj/Debug/netstandard2.1/Application.pdb

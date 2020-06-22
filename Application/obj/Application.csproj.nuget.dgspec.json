@@ -1,0 +1,189 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Application/Application.csproj": {}
+  },
+  "projects": {
+    "/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Application/Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Application/Application.csproj",
+        "projectName": "Application",
+        "projectPath": "/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Application/Application.csproj",
+        "packagesPath": "/Users/rodrigo.falcaodossantos/.nuget/packages/",
+        "outputPath": "/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rodrigo.falcaodossantos/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Domain/Domain.csproj": {
+                "projectPath": "/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Domain/Domain.csproj"
+              },
+              "/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Persistance/Persistance.csproj": {
+                "projectPath": "/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Persistance/Persistance.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Domain/Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Domain/Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Domain/Domain.csproj",
+        "packagesPath": "/Users/rodrigo.falcaodossantos/.nuget/packages/",
+        "outputPath": "/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rodrigo.falcaodossantos/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Persistance/Persistance.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Persistance/Persistance.csproj",
+        "projectName": "Persistance",
+        "projectPath": "/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Persistance/Persistance.csproj",
+        "packagesPath": "/Users/rodrigo.falcaodossantos/.nuget/packages/",
+        "outputPath": "/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Persistance/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rodrigo.falcaodossantos/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Domain/Domain.csproj": {
+                "projectPath": "/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Domain/Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
