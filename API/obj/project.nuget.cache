@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "LI7esihYZDOF/yx/kogZglg0kxhFyyp+Yem5/ISnxdjeI0BGWQMF8V+WYsQVhyhqRpakD4rZntHJsKzXNGFLqw==",
+  "dgSpecHash": "+H9gLasw8LFybgGOLhrBK4oTe2HxlS7irVbc6aGKV+dvbK28nw3XlUXoZvyItU/D+49xYnJeN3vecvxw9isgDw==",
   "success": true,
-  "projectFilePath": "/Users/rodrigo.falcaodossantos/C#/ExpertFinder/API/API.csproj",
+  "projectFilePath": "/Users/rodrigo.falcaodossantos/C#/ExpertFinder1.6/ExpertFinder/API/API.csproj",
   "expectedPackageFiles": [
+    "/Users/rodrigo.falcaodossantos/.nuget/packages/automapper/9.0.0/automapper.9.0.0.nupkg.sha512",
+    "/Users/rodrigo.falcaodossantos/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/7.0.0/automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
     "/Users/rodrigo.falcaodossantos/.nuget/packages/mediatr/8.0.0/mediatr.8.0.0.nupkg.sha512",
     "/Users/rodrigo.falcaodossantos/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/8.0.0/mediatr.extensions.microsoft.dependencyinjection.8.0.0.nupkg.sha512",
     "/Users/rodrigo.falcaodossantos/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.0/microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
@@ -30,6 +32,8 @@
     "/Users/rodrigo.falcaodossantos/.nuget/packages/microsoft.extensions.logging.abstractions/3.1.0/microsoft.extensions.logging.abstractions.3.1.0.nupkg.sha512",
     "/Users/rodrigo.falcaodossantos/.nuget/packages/microsoft.extensions.options/3.1.0/microsoft.extensions.options.3.1.0.nupkg.sha512",
     "/Users/rodrigo.falcaodossantos/.nuget/packages/microsoft.extensions.primitives/3.1.0/microsoft.extensions.primitives.3.1.0.nupkg.sha512",
+    "/Users/rodrigo.falcaodossantos/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/rodrigo.falcaodossantos/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "/Users/rodrigo.falcaodossantos/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.0.2/sqlitepclraw.bundle_e_sqlite3.2.0.2.nupkg.sha512",
     "/Users/rodrigo.falcaodossantos/.nuget/packages/sqlitepclraw.core/2.0.2/sqlitepclraw.core.2.0.2.nupkg.sha512",
     "/Users/rodrigo.falcaodossantos/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.0.2/sqlitepclraw.lib.e_sqlite3.2.0.2.nupkg.sha512",
@@ -37,8 +41,16 @@
     "/Users/rodrigo.falcaodossantos/.nuget/packages/system.collections.immutable/1.7.0/system.collections.immutable.1.7.0.nupkg.sha512",
     "/Users/rodrigo.falcaodossantos/.nuget/packages/system.componentmodel.annotations/4.7.0/system.componentmodel.annotations.4.7.0.nupkg.sha512",
     "/Users/rodrigo.falcaodossantos/.nuget/packages/system.diagnostics.diagnosticsource/4.7.0/system.diagnostics.diagnosticsource.4.7.0.nupkg.sha512",
+    "/Users/rodrigo.falcaodossantos/.nuget/packages/system.io/4.3.0/system.io.4.3.0.nupkg.sha512",
     "/Users/rodrigo.falcaodossantos/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
-    "/Users/rodrigo.falcaodossantos/.nuget/packages/system.text.json/4.7.0/system.text.json.4.7.0.nupkg.sha512"
+    "/Users/rodrigo.falcaodossantos/.nuget/packages/system.reflection/4.3.0/system.reflection.4.3.0.nupkg.sha512",
+    "/Users/rodrigo.falcaodossantos/.nuget/packages/system.reflection.emit/4.3.0/system.reflection.emit.4.3.0.nupkg.sha512",
+    "/Users/rodrigo.falcaodossantos/.nuget/packages/system.reflection.emit.ilgeneration/4.3.0/system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
+    "/Users/rodrigo.falcaodossantos/.nuget/packages/system.reflection.primitives/4.3.0/system.reflection.primitives.4.3.0.nupkg.sha512",
+    "/Users/rodrigo.falcaodossantos/.nuget/packages/system.runtime/4.3.0/system.runtime.4.3.0.nupkg.sha512",
+    "/Users/rodrigo.falcaodossantos/.nuget/packages/system.text.encoding/4.3.0/system.text.encoding.4.3.0.nupkg.sha512",
+    "/Users/rodrigo.falcaodossantos/.nuget/packages/system.text.json/4.7.0/system.text.json.4.7.0.nupkg.sha512",
+    "/Users/rodrigo.falcaodossantos/.nuget/packages/system.threading.tasks/4.3.0/system.threading.tasks.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

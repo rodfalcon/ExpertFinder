@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vxSKvIcYuZE80x36A2VhPGfuEJfA7icP846gc/bvFnpdh6H9MTe4LsUhxB86if5j5E1chJxJvniIoE19sGvPnA==",
+  "dgSpecHash": "Y438w+pZCd59RS27vgAYhG51SPlxluWsf9l113uJjIGa8epK3skrx7F3pOoF9KGETlYmz0CcKri4TLzrOqi6dw==",
   "success": true,
-  "projectFilePath": "/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Application/Application.csproj",
+  "projectFilePath": "/Users/rodrigo.falcaodossantos/C#/ExpertFinder1.6/ExpertFinder/Application/Application.csproj",
   "expectedPackageFiles": [
     "/Users/rodrigo.falcaodossantos/.nuget/packages/mediatr/8.0.0/mediatr.8.0.0.nupkg.sha512",
     "/Users/rodrigo.falcaodossantos/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/8.0.0/mediatr.extensions.microsoft.dependencyinjection.8.0.0.nupkg.sha512",

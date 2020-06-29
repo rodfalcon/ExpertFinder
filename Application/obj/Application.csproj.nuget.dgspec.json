@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Application/Application.csproj": {}
+    "/Users/rodrigo.falcaodossantos/C#/ExpertFinder1.6/ExpertFinder/Application/Application.csproj": {}
   },
   "projects": {
-    "/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Application/Application.csproj": {
+    "/Users/rodrigo.falcaodossantos/C#/ExpertFinder1.6/ExpertFinder/Application/Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Application/Application.csproj",
+        "projectUniqueName": "/Users/rodrigo.falcaodossantos/C#/ExpertFinder1.6/ExpertFinder/Application/Application.csproj",
         "projectName": "Application",
-        "projectPath": "/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Application/Application.csproj",
+        "projectPath": "/Users/rodrigo.falcaodossantos/C#/ExpertFinder1.6/ExpertFinder/Application/Application.csproj",
         "packagesPath": "/Users/rodrigo.falcaodossantos/.nuget/packages/",
-        "outputPath": "/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Application/obj/",
+        "outputPath": "/Users/rodrigo.falcaodossantos/C#/ExpertFinder1.6/ExpertFinder/Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rodrigo.falcaodossantos/.nuget/NuGet/NuGet.Config"
@@ -25,11 +25,11 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Domain/Domain.csproj": {
-                "projectPath": "/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Domain/Domain.csproj"
+              "/Users/rodrigo.falcaodossantos/C#/ExpertFinder1.6/ExpertFinder/Domain/Domain.csproj": {
+                "projectPath": "/Users/rodrigo.falcaodossantos/C#/ExpertFinder1.6/ExpertFinder/Domain/Domain.csproj"
               },
-              "/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Persistance/Persistance.csproj": {
-                "projectPath": "/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Persistance/Persistance.csproj"
+              "/Users/rodrigo.falcaodossantos/C#/ExpertFinder1.6/ExpertFinder/Persistance/Persistance.csproj": {
+                "projectPath": "/Users/rodrigo.falcaodossantos/C#/ExpertFinder1.6/ExpertFinder/Persistance/Persistance.csproj"
               }
             }
           }
@@ -67,14 +67,14 @@
         }
       }
     },
-    "/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Domain/Domain.csproj": {
+    "/Users/rodrigo.falcaodossantos/C#/ExpertFinder1.6/ExpertFinder/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Domain/Domain.csproj",
+        "projectUniqueName": "/Users/rodrigo.falcaodossantos/C#/ExpertFinder1.6/ExpertFinder/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Domain/Domain.csproj",
+        "projectPath": "/Users/rodrigo.falcaodossantos/C#/ExpertFinder1.6/ExpertFinder/Domain/Domain.csproj",
         "packagesPath": "/Users/rodrigo.falcaodossantos/.nuget/packages/",
-        "outputPath": "/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Domain/obj/",
+        "outputPath": "/Users/rodrigo.falcaodossantos/C#/ExpertFinder1.6/ExpertFinder/Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rodrigo.falcaodossantos/.nuget/NuGet/NuGet.Config"
@@ -117,14 +117,14 @@
         }
       }
     },
-    "/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Persistance/Persistance.csproj": {
+    "/Users/rodrigo.falcaodossantos/C#/ExpertFinder1.6/ExpertFinder/Persistance/Persistance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Persistance/Persistance.csproj",
+        "projectUniqueName": "/Users/rodrigo.falcaodossantos/C#/ExpertFinder1.6/ExpertFinder/Persistance/Persistance.csproj",
         "projectName": "Persistance",
-        "projectPath": "/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Persistance/Persistance.csproj",
+        "projectPath": "/Users/rodrigo.falcaodossantos/C#/ExpertFinder1.6/ExpertFinder/Persistance/Persistance.csproj",
         "packagesPath": "/Users/rodrigo.falcaodossantos/.nuget/packages/",
-        "outputPath": "/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Persistance/obj/",
+        "outputPath": "/Users/rodrigo.falcaodossantos/C#/ExpertFinder1.6/ExpertFinder/Persistance/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rodrigo.falcaodossantos/.nuget/NuGet/NuGet.Config"
@@ -138,8 +138,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Domain/Domain.csproj": {
-                "projectPath": "/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Domain/Domain.csproj"
+              "/Users/rodrigo.falcaodossantos/C#/ExpertFinder1.6/ExpertFinder/Domain/Domain.csproj": {
+                "projectPath": "/Users/rodrigo.falcaodossantos/C#/ExpertFinder1.6/ExpertFinder/Domain/Domain.csproj"
               }
             }
           }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2yf2rUqjgZMcoOW3tPfi4dfPl9iqCbezcjkKWQ+pa4ScBE8SYywWrTNkGdeScRvJ82gyeLoXTnW/cuXxFrnb/A==",
+  "dgSpecHash": "gaU5l+Z3PEQrdb/QU2g94+JujYMGAnup4umBizO3u6xya9uS0hO9xQDxLjGghloNP5T+HyZMY0OzgZjEKWj/cg==",
   "success": true,
-  "projectFilePath": "/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Domain/Domain.csproj",
+  "projectFilePath": "/Users/rodrigo.falcaodossantos/C#/ExpertFinder1.6/ExpertFinder/Domain/Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

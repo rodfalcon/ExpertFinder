@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Domain/Domain.csproj",
+      "projectUniqueName": "/Users/rodrigo.falcaodossantos/C#/ExpertFinder1.6/ExpertFinder/Domain/Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Domain/Domain.csproj",
+      "projectPath": "/Users/rodrigo.falcaodossantos/C#/ExpertFinder1.6/ExpertFinder/Domain/Domain.csproj",
       "packagesPath": "/Users/rodrigo.falcaodossantos/.nuget/packages/",
-      "outputPath": "/Users/rodrigo.falcaodossantos/C#/ExpertFinder/Domain/obj/",
+      "outputPath": "/Users/rodrigo.falcaodossantos/C#/ExpertFinder1.6/ExpertFinder/Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/rodrigo.falcaodossantos/.nuget/NuGet/NuGet.Config"

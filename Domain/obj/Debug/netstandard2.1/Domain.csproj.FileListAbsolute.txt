@@ -7,3 +7,12 @@
 /Users/rodrigo.falcaodossantos/C#/ExpertFinder/Domain/obj/Debug/netstandard2.1/Domain.csproj.CoreCompileInputs.cache
 /Users/rodrigo.falcaodossantos/C#/ExpertFinder/Domain/obj/Debug/netstandard2.1/Domain.dll
 /Users/rodrigo.falcaodossantos/C#/ExpertFinder/Domain/obj/Debug/netstandard2.1/Domain.pdb
+/Users/rodrigo.falcaodossantos/C#/ExpertFinder1.6/ExpertFinder/Domain/bin/Debug/netstandard2.1/Domain.deps.json
+/Users/rodrigo.falcaodossantos/C#/ExpertFinder1.6/ExpertFinder/Domain/bin/Debug/netstandard2.1/Domain.dll
+/Users/rodrigo.falcaodossantos/C#/ExpertFinder1.6/ExpertFinder/Domain/bin/Debug/netstandard2.1/Domain.pdb
+/Users/rodrigo.falcaodossantos/C#/ExpertFinder1.6/ExpertFinder/Domain/obj/Debug/netstandard2.1/Domain.csprojAssemblyReference.cache
+/Users/rodrigo.falcaodossantos/C#/ExpertFinder1.6/ExpertFinder/Domain/obj/Debug/netstandard2.1/Domain.AssemblyInfoInputs.cache
+/Users/rodrigo.falcaodossantos/C#/ExpertFinder1.6/ExpertFinder/Domain/obj/Debug/netstandard2.1/Domain.AssemblyInfo.cs
+/Users/rodrigo.falcaodossantos/C#/ExpertFinder1.6/ExpertFinder/Domain/obj/Debug/netstandard2.1/Domain.csproj.CoreCompileInputs.cache
+/Users/rodrigo.falcaodossantos/C#/ExpertFinder1.6/ExpertFinder/Domain/obj/Debug/netstandard2.1/Domain.dll
+/Users/rodrigo.falcaodossantos/C#/ExpertFinder1.6/ExpertFinder/Domain/obj/Debug/netstandard2.1/Domain.pdb
